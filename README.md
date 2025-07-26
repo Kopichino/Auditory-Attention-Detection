@@ -25,7 +25,7 @@ This project focuses on detecting **fake EEG signals** using a GAN-based model f
 - 🧬 **EEG Data Processing**: `mne`, `scipy`, `numpy`
 - 🎨 **Visualization**: `matplotlib`, `seaborn`
 - 📊 **GAN Architecture**: Self-Attention GAN (SAGAN)
-- 💾 **Dataset**: KUL Dataset / Custom Auditory EEG Dataset
+- 💾 **Dataset**: https://zenodo.org/records/4004271
 
 ---
 
